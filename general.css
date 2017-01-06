@@ -24,7 +24,8 @@ html {
     font-family: 'Bungee', cursive;
     text-shadow: 0px 2px 3px rgba(150, 150, 150, 1);
     color: #EFF9F0;
-    font-size: 6em;
+    font-size: calc(1em + 4vw);
+    line-height: calc(1.5em + 1vw);
 }
 
 #subTitleUpTop {
@@ -145,7 +146,8 @@ a {
     color: #EFF9F0;
     text-align: center;
     margin: 0;
-    font-size: 6em;
+    font-size: calc(1em + 4vw);
+    line-height: calc(1.5em + 1vw);
 }
 
 
@@ -153,7 +155,7 @@ a {
 
 .col-md-4 {
     overflow: hidden;
-    background-color: #020002;
+    /*    background-color: #020002;*/
 }
 
 #middleTopSection {
@@ -172,6 +174,13 @@ a {
     overflow: hidden;
     margin: auto;
     padding: 0px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9;
+    /* ie8 */
 }
 
 
