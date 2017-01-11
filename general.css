@@ -47,6 +47,10 @@ html {
 
 /* ========== social icons ========== */
 
+#socialMediaSectionUpTop {
+    padding-bottom: 10px;
+}
+
 ul.social-network {
     list-style: none;
     display: inline;
@@ -153,6 +157,13 @@ a {
     line-height: calc(1.5em + 1vw);
 }
 
+#subTitle {
+    color: #EFF9F0;
+    font-family: 'Allerta', sans-serif;
+    font-size: 1em;
+    text-shadow: 0px 2px 3px rgba(150, 150, 150, 1);
+}
+
 
 /* ========== albumArt Pictures ========== */
 
@@ -182,8 +193,16 @@ a {
 img {
     max-width: 100%;
     height: auto;
-    width: auto\9;
+    width: auto;
     /* ie8 */
+}
+
+.albumArt {
+    overflow: hidden;
+    width: 500px;
+    height: auto;
+    margin: auto;
+    padding: 10px;
 }
 
 
@@ -226,12 +245,8 @@ a:visited {
     text-decoration: none;
 }
 
-#musicPlayeriFrame {
-    height: 42px;
-    border: 0;
-    margin: auto;
-    
-}
+
+/* Music player section */
 
 #musicPlayer {
     overflow: hidden;
@@ -239,14 +254,34 @@ a:visited {
     margin: auto;
 }
 
-#socialMediaSectionUpTop {
-    padding-bottom: 10px;
+#musicPlayeriFrame {
+    height: 42px;
+    border: 0;
+    margin: auto;
 }
 
-.albumArt {
-    overflow: hidden;
-    width: 500px;
-    height: auto;
+
+/* ========== Beats Section ========== */
+
+#beats {
+    background-color: #222022;
+    padding: 50px;
     margin: auto;
-    padding: 10px;
+}
+
+#title {
+    font-family: 'Bungee', cursive;
+    text-shadow: 0px 2px 3px rgba(150, 150, 150, 1);
+    color: #EFF9F0;
+    text-align: center;
+    margin: 0;
+    font-size: calc(1em + 4vw);
+    line-height: calc(1.5em + 1vw);
+}
+
+
+/* Beat Section Music Playlist */
+
+#musicPlaylist {
+    height: 24em;
 }
