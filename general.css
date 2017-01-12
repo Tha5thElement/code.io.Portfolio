@@ -1,7 +1,7 @@
 /* === General Coloring === */
 
 html {
-    background-color: #222022;
+    background-color: #1F1D1F;
 }
 
 
@@ -12,7 +12,7 @@ html {
     padding-top: 50px;
     padding-bottom: 50px;
     color: #020002;
-    background: url(http://dailyhdwallpaper.com/wp-content/uploads/Dark-Nature-Black-Background-HD-Wallpaper.jpg) no-repeat center center;
+    background: url(http://allaccess80s.com/wp-content/uploads/2015/08/crowd-789652_1280-e1439205630256.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -23,7 +23,7 @@ html {
 #titleUpTop {
     font-family: 'Bungee', cursive;
     text-shadow: 0px 2px 3px rgba(150, 150, 150, 1);
-    color: #EFF9F0;
+    color: #EAE7E9;
     font-size: calc(1em + 4vw);
     line-height: calc(1.5em + 1vw);
     margin: auto;
@@ -31,14 +31,14 @@ html {
 }
 
 #subTitleUpTop {
-    color: #EFF9F0;
+    color: #EAE7E9;
     font-family: 'Allerta', sans-serif;
     font-size: 1em;
     text-shadow: 0px 2px 3px rgba(150, 150, 150, 1);
 }
 
 #textUnderSocialMedia {
-    color: #EFF9F0;
+    color: #EAE7E9;
     font-family: 'Allerta', sans-serif;
     text-shadow: 0px 2px 3px rgba(150, 150, 150, 1);
     padding: 30px;
@@ -88,7 +88,7 @@ ul.social-network li {
 .social-network a.icoSoundcloud:hover i,
 a.socialIcon:hover,
 .socialHoverClass {
-    color: #44BCDD;
+    color: #000807;
 }
 
 
@@ -143,14 +143,14 @@ a {
 /* ========== albumArt Section ========== */
 
 #albumArt {
-    background-color: #222022;
+    background-color: #1F1D1F;
     padding: 50px;
 }
 
 #albumArtTitle {
     font-family: 'Bungee', cursive;
     text-shadow: 0px 2px 3px rgba(150, 150, 150, 1);
-    color: #EFF9F0;
+    color: #EAE7E9;
     text-align: center;
     margin: 0;
     font-size: calc(1em + 4vw);
@@ -158,7 +158,7 @@ a {
 }
 
 #subTitle {
-    color: #EFF9F0;
+    color: #EAE7E9;
     font-family: 'Allerta', sans-serif;
     font-size: 1em;
     text-shadow: 0px 2px 3px rgba(150, 150, 150, 1);
@@ -213,7 +213,7 @@ ul#navigationBar {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #222022;
+    background-color: #1F1D1F;
     position: fixed;
     bottom: 0;
     width: 100%
@@ -225,7 +225,7 @@ ul#navigationBar li {
 
 ul#navigationBar li a {
     display: block;
-    color: #EFF9F0;
+    color: #EAE7E9;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -236,12 +236,12 @@ ul#navigationBar li a:hover {
     background-color: #020002;
     text-decoration: none;
     font-family: 'Allerta', sans-serif;
-    color: #EFF9F0;
+    color: #EAE7E9;
 }
 
 ul#navigationBar li,
 a:visited {
-    color: #EFF9F0;
+    color: #EAE7E9;
     text-decoration: none;
 }
 
@@ -264,7 +264,7 @@ a:visited {
 /* ========== Beats Section ========== */
 
 #beats {
-    background-color: #222022;
+    background-color: #1F1D1F;
     padding: 50px;
     margin: auto;
 }
@@ -272,7 +272,7 @@ a:visited {
 #title {
     font-family: 'Bungee', cursive;
     text-shadow: 0px 2px 3px rgba(150, 150, 150, 1);
-    color: #EFF9F0;
+    color: #EAE7E9;
     text-align: center;
     margin: 0;
     font-size: calc(1em + 4vw);
